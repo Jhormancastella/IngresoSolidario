@@ -6,6 +6,7 @@ El plan de mercadeo está diseñado para llegar a toda la población colombiana,
 
 ## Estructura del Proyecto
 - `index.html`: Contiene la estructura principal de la página web.
+- - `Recursos`: Contiene los recusos de  la página web
 - `styles.css`: Contiene los estilos CSS para la página web.
 - `README.md`: Documentación del propósito y detalles del proyecto.
 
